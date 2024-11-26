@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Gemini API Configuration
-GEMINI_API_KEY = "AIzaSyAdBcLKiN72dtZzATQh09NFIsJO3Y7198w"
+GEMINI_API_KEY = "api-key"
 GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
 
 # In-memory storage
