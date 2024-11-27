@@ -18,17 +18,22 @@ Gemini API: Used for generating scenarios and feedback.
 Database/Storage: In-memory storage for solutions, feedback, and approval status.
 Workflow
 Generate Scenario (User)
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![WhatsApp Image 2024-11-26 at 11 39 33 PM](https://github.com/user-attachments/assets/b27b182c-4a6c-413b-92cb-9f79a151581e)
 
-=================================================================================================================================
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![WhatsApp Image 2024-11-26 at 11 39 33 PM (1)](https://github.com/user-attachments/assets/f4e50208-5ad5-4b02-88d2-3f2e8e642688)
 
-=================================================================================================================================
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ![WhatsApp Image 2024-11-26 at 11 39 33 PM (2)](https://github.com/user-attachments/assets/b526d7bb-63ec-43db-8ab8-ce5a8247a269)
 
-=================================================================================================================================
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ![WhatsApp Image 2024-11-26 at 11 39 34 PM](https://github.com/user-attachments/assets/c8204124-fac9-473c-a821-e5e5404eef9d)
 
 =================================================================================================================================
