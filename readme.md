@@ -30,19 +30,26 @@ Generate Scenario (User)
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ![WhatsApp Image 2024-11-26 at 11 39 33 PM (2)](https://github.com/user-attachments/assets/b526d7bb-63ec-43db-8ab8-ce5a8247a269)
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ![WhatsApp Image 2024-11-26 at 11 39 34 PM](https://github.com/user-attachments/assets/c8204124-fac9-473c-a821-e5e5404eef9d)
 
-=================================================================================================================================
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ![WhatsApp Image 2024-11-26 at 11 39 34 PM (1)](https://github.com/user-attachments/assets/0a0a69e5-4684-4a92-881a-3a25fa35dd8e)
 
-=================================================================================================================================
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ![WhatsApp Image 2024-11-26 at 11 39 34 PM (2)](https://github.com/user-attachments/assets/0edce9e4-5228-46c1-b4a7-662ec584a286)
 
-=================================================================================================================================
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ![WhatsApp Image 2024-11-26 at 11 39 34 PM (3)](https://github.com/user-attachments/assets/e4839dd2-5c8e-4965-a7fc-306d6b5333fb)
 
 
